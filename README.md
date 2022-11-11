@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @purplehippo911
-- 👀 I’m interested in webdevelopment tools, like HTML, CSS, Javascript/Vue.js, and backend languages like Python🐍
+- 👀 I’m interested in webdevelopment tools, like HTML, CSS, Javascript/Vue.js, and backend languages like Python🐍 and C#.
 - 🌱 I’m currently learning Vue.js and I'm planning on starting on Python soon.
 - 💞️ I’m looking to collaborate on frontend projects, challenges or websites.
 - 📫 How to reach me here: Discord - mashedapples222#7574
