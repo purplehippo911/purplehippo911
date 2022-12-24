@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Vue.js and I'm planning on starting on Python soon.
 - 💞️ I’m looking to collaborate on frontend and some backend projects, challenges or websites.
 - 📫 How to reach me here: 
-- Discord - mashedapples222#7574
+- Discord - muggie#7574
 - Twitter - [muggie43](https://twitter.com/muggie43)
 
 <!---
