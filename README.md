@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @purplehippo911
 - 👀 I’m interested in webdevelopment tools, like HTML, CSS, Javascript/Vue.js, and backend languages like Python🐍 and C#.
-- 🌱 I’m currently learning Vue.js and I'm planning on starting on Python soon.
+- 🌱 I’m currently learning React.js and I'm planning on starting on Tailwind and Nuxt.js soon.
 - 💞️ I’m looking to collaborate on frontend and some backend projects, challenges or websites.
 - 📫 How to reach me here: 
 - Discord - muggie#7574
