@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **muggie@duck.com**
 
-- 📄 Know about my experiences [https://resume.io/r/jhHadaLRT](https://resume.io/r/jhHadaLRT)
-
 - ⚡ Fun fact **In my freetime, I like to go on walks, make food and read both fantasy, comics and non-fiction. I also like to play shooting games like Overwatch 2.**
 
 <h3 align="left">Connect with me:</h3>
