@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muggie</h1>
-<h3 align="center">A passionate frontend developer from Norway</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muggie" alt="muggie" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/muggie43" target="blank"><img src="https://img.shields.io/twitter/follow/muggie43?logo=twitter&style=for-the-badge" alt="muggie43" /></a> </p>
+<h3 align="center">A passionate self-taught frontend developer from Norway</h3>
 
 - 🔭 I’m currently working on [my anti-procrastination app, Focus Flow](https://www.github.com/purplehippo911/focusflow)
 
@@ -36,7 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muggie&show_icons=true&locale=en" alt="muggie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muggie&" alt="muggie" /></p>
-
 <!---
 Made this with the help of [github profile readme generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 --->
