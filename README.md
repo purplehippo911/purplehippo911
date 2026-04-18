@@ -14,10 +14,10 @@
 - Open to chat about web dev, linux, python, C, Anime and whatever
 - All of my projects are available at [https://purplehipposwebsite.netlify.app](https://purplehipposwebsite.netlify.app)
 
+- About me: I love story games like RDR2, Ghost of Tshushima, Far cry 3 and adventure games like Hollow Knight. Open to play together
+---
 - 📫 How to reach me **muggie@duck.com**
-
-- ⚡ Fun fact **In my freetime, I like to go on walks, make food and read both fantasy, comics and non-fiction. I also love story games like RDR2, Ghost of Tshushima, Far cry 3 and adventure games like Hollow Knight. Open to play together**
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/htmlsquid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="htmlsquid" height="30" width="40" /></a>
