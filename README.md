@@ -12,7 +12,6 @@
 -->
 - I’m looking to collaborate on anything within my scope of knowledge, so hit me up!
 - Open to chat about web dev, linux, python, C, Anime and whatever
-- All of my projects are available at [https://purplehipposwebsite.netlify.app](https://purplehipposwebsite.netlify.app)
 
 - About me: I love story games like RDR2, Ghost of Tshushima, Far cry 3 and adventure games like Hollow Knight. Open to play together
 ---
